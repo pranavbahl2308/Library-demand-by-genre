@@ -1,1 +1,2 @@
 # LibraryPredictiveAnalysis
+The idea of the project is to know if KU(University of Kansas) student demand for genre-specific library books exhibits seasonality, and if predictions can be made based on periodic trends. The project consists of several prediction models, including: ARIMA (Autoregressive Integrated Moving Average), BSTS (Bayesian Structural Time Series), and Holt-Winters. This prediction may be useful in deciding how to allocate library resources, and it should be a better approach than the previous anecdotal methods.
